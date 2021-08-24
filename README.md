@@ -30,5 +30,5 @@ Here are some ideas to get you started:
   <a href="mailto:juhwacheol@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=juhwacheol@gmail.com"/></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwacheol&langs_count=6)](https://github.com/juhwacheol)
 
