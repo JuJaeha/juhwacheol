@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-004e6d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-dc2543?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Swift-1e94a0?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-fec0c1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Python-1e94a0?style=flat-square&logo=Python&logoColor=white"/></a> 
 </p>
 
 <h2 align="center">🌈Follow Me</h2>
@@ -29,3 +29,6 @@ Here are some ideas to get you started:
   <a href="https://juhwacheol.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://juhwacheol.github.io"/></a>&nbsp
   <a href="mailto:juhwacheol@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=juhwacheol@gmail.com"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
