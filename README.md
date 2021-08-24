@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=280&section=header&text=Goodbye%20World!!&animation=blink&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=280&section=header&text=Goodbye%20World!!&animation=fadeIn&fontSize=90)
 
