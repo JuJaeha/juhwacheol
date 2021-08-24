@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=300&section=header&text=Bye%20World!!&desc=Hwa Cheol.Ju&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=300&section=header&text=Bye%20World!!&desc=Hwa.Cheol.Ju&fontSize=90)
 
