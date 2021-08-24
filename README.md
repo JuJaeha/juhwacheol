@@ -37,8 +37,10 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🐳Github Stats </h2>
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwacheol&langs_count=6)](https://github.com/juhwacheol)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuHwaCheol&show_icons=true&theme=dark)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwacheol&langs_count=6)](https://github.com/juhwacheol)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuHwaCheol&show_icons=true&theme=dark)
+
 </div>
 
 
