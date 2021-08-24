@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=280&section=header&text=Goodbye%20World!!&fontColor=ffffff&animation=fadeIn&fontSize=90&fontAlignY=35)
 
 
-<h2 align="center"> ✨Tech Stack </h2>
+<h2 align="center"> ✨Me </h2>
+<p align="center">
+ <h3 align="center"> really like Android and IOS </h3>  
+</p>
 
+<h2 align="center"> ✨Tech Stack </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-004e6d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-dc2543?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -33,10 +37,8 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🐳Github Stats </h2>
 <div align="center">
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwacheol&langs_count=6)](https://github.com/juhwacheol)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuHwaCheol&show_icons=true&theme=dark)
-
 </div>
 
 
