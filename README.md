@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <h2 align="center"> ✨Tech Stack </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Kotlin-004e6d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Java-dc2543?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-fec0c1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/Python-1e94a0?style=flat-square&logo=Python&logoColor=white"/></a> 
 </p>
 
 <h2 align="center">🌈Follow Me</h2>
