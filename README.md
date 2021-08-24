@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-       ![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=280&section=header&text=Goodbye%20World!!&fontColor=ffffff&animation=fadeIn&fontSize=90&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=008080&height=280&section=header&text=Goodbye%20World!!&fontColor=ffffff&animation=fadeIn&fontSize=90&fontAlignY=35)
 
 
 <h2 align="center"> ✨Tech Stack </h2>
@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 <h2 align="center">🌈Follow Me</h2>
 <p align="center">
-  <a href="juhwacheol.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=juhwacheol.github.io"/></a>&nbsp
+  <a href="https://juhwacheol.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://juhwacheol.github.io"/></a>&nbsp
   <a href="mailto:juhwacheol@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=juhwacheol@gmail.com"/></a>
 </p>
