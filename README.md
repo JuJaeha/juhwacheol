@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 
 <h2 align="center"> 🌈Follow Me </h2>
 <p align="center">
-  <a href="https://juhwacheol.github.io"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://juhwacheol.github.io"/></a>&nbsp
-  <a href="mailto:juhwacheol@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=juhwacheol@gmail.com"/></a>
+  <a href="https://dog-paw.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://juhwacheol.github.io"/></a>&nbsp
+  <a href="mailto:j.jh.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=j.jh.developer@gmail.com"/></a>
 </p>
 
 
 <h2 align="center"> 🐳Github Stats </h2>
 <div align="center">
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwacheol&langs_count=6)](https://github.com/juhwacheol)
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuHwaCheol&show_icons=true&theme=dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujaeha&langs_count=6)](https://github.com/jujaeha)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeHa&show_icons=true&theme=dark)
 
 </div>
 
