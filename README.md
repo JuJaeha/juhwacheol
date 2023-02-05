@@ -17,20 +17,17 @@ Here are some ideas to get you started:
 
 <h2 align="center"> ✨Me </h2>
 <p align="center">
- <h3 align="center"> really like Android and IOS </h3>  
+ <h3 align="center"> iOS Developer </h3>  
 </p>
 
 <h2 align="center"> ✨Tech Stack </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-004e6d?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Java-dc2543?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-1e94a0?style=flat-square&logo=Swift&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-fec0c1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
 </p>
 
 <h2 align="center"> 🌈Follow Me </h2>
-<p align="center">
-  <a href="https://dog-paw.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://juhwacheol.github.io"/></a>&nbsp
+<p align="center"> &nbsp
   <a href="mailto:j.jh.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=j.jh.developer@gmail.com"/></a>
 </p>
 
