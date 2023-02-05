@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <h2 align="center"> ✨Tech Stack </h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-1e94a0?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-fec0c1?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> 
+  <img src="https://img.shields.io/badge/objective%20c-objective%20c-white"/></a> 
 </p>
 
 <h2 align="center"> 🌈Follow Me </h2>
