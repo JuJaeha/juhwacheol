@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="mailto:j.jh.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=j.jh.developer@gmail.com"/></a>
 </p>
 
-
+<!--
 <h2 align="center"> 🐳Github Stats </h2>
 <div align="center">
  
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuJaeHa&show_icons=true&theme=dark)
 
 </div>
-
+-->
 
 
 
